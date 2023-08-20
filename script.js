@@ -9,15 +9,7 @@ document.addEventListener("DOMContentLoaded", function () {
 
         const mailTo = "sohsmd-mef@gov.in";
         const subject = "Enhancing the Green Credit Mechanism for Sustainable Development (Suggestions)";
-        const content = `<style>
-        ol {
-            margin-top: 0; /* Remove top margin from the ordered list */
-            padding-left: 20px; /* Add some left padding for the list */
-        }
-        p {
-            margin: 0; /* Remove margin from paragraphs */
-        }
-    </style>
+        const content = `
 <p>
 Dear Sir/Madam,
 
