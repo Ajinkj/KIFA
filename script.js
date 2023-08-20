@@ -22,7 +22,7 @@ document.addEventListener("DOMContentLoaded", function () {
 Dear Sir/Madam,
 
 I extend my heartfelt appreciation to the Government and officials of the Ministry of Environment, Forest, and Climate Change for recognizing the vital role of farmers in creating greenery and taking steps to acknowledge their efforts through the Green Credit Mechanism (GCP). After carefully studying the recent Gazette of India Notification S.O 2779(E) and considering the inputs from various stakeholders, I would like to offer the following suggestions to further strengthen the GCP and ensure its effectiveness in promoting sustainable development in our country:
-
+</p>
 <ol>
     <li>Adopt clear and consistent guidelines to streamline the Green Credit Mechanism (GCP) and avoid confusion between notifications by different ministries.</li>
     <li>Form an inter-departmental high-power committee comprising experts from various ministries to ensure technical accuracy and international alignment.</li>
@@ -48,7 +48,7 @@ I extend my heartfelt appreciation to the Government and officials of the Minist
     <li>Promote fairness and transparency in the process by fixing a reasonable fee for the authorized agency calculating green credit.</li>
     <li>Prioritize farmers' and institutions' credits in the market to ensure a wider distribution of benefits from the mechanism.</li>
 </ol>
-
+<p>
 By incorporating these suggestions, the Green Credit Mechanism can become a powerful tool for revitalizing the plantation industry and supporting the farming community, leading India towards a greener and more sustainable future.
 
 I sincerely hope that my recommendations will be taken into consideration, and I express my willingness to collaborate with the Ministry to promote environmental conservation and climate action.
