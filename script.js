@@ -18,6 +18,7 @@ document.addEventListener("DOMContentLoaded", function () {
             margin: 0; /* Remove margin from paragraphs */
         }
     </style>
+<body>
 <p>
 Dear Sir/Madam,
 
@@ -60,6 +61,7 @@ ${name}
 ${address}
 ${phone}
 </p>
+</body>
 `;
 
 
