@@ -9,7 +9,16 @@ document.addEventListener("DOMContentLoaded", function () {
 
         const mailTo = "sohsmd-mef@gov.in";
         const subject = "Enhancing the Green Credit Mechanism for Sustainable Development (Suggestions)";
-        const content = `
+        const content = `<style>
+        ol {
+            margin-top: 0; /* Remove top margin from the ordered list */
+            padding-left: 20px; /* Add some left padding for the list */
+        }
+        p {
+            margin: 0; /* Remove margin from paragraphs */
+        }
+    </style>
+<p>
 Dear Sir/Madam,
 
 I extend my heartfelt appreciation to the Government and officials of the Ministry of Environment, Forest, and Climate Change for recognizing the vital role of farmers in creating greenery and taking steps to acknowledge their efforts through the Green Credit Mechanism (GCP). After carefully studying the recent Gazette of India Notification S.O 2779(E) and considering the inputs from various stakeholders, I would like to offer the following suggestions to further strengthen the GCP and ensure its effectiveness in promoting sustainable development in our country:
@@ -50,6 +59,7 @@ Sincerely,
 ${name}
 ${address}
 ${phone}
+</p>
 `;
 
 
