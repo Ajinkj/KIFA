@@ -8,7 +8,8 @@ document.addEventListener("DOMContentLoaded", function () {
         const phone = document.getElementById("phone").value;
 
         const mailTo = "sohsmd-mef@gov.in";
-        const subject = "Enhancing the Green Credit Mechanism for Sustainable Development (Suggestions)";
+        const ccEmail = "emailkifa@gmail.com"; // Add the CC email address here
+        const subject = "Subject: Enhancing the Green Credit Mechanism for Sustainable Development (Suggestions)";
         const content = `
 Dear Sir/Madam,
                 I extend my heartfelt appreciation to the Government and officials of the Ministry of Environment, Forest, and Climate Change for recognizing the vital role of farmers in creating greenery and taking steps to acknowledge their efforts through the Green Credit Mechanism (GCP). 
@@ -52,7 +53,7 @@ Sincerely,
     ${phone}
         `;
 
-        const mailLink = `mailto:${mailTo}?subject=${encodeURIComponent(subject)}&body=${encodeURIComponent(content)}`;
+        const mailLink = `mailto:${mailTo}?cc=${ccEmail}&subject=${encodeURIComponent(subject)}&body=${encodeURIComponent(content)}`;
         window.open(mailLink, "_blank");
     });
 });
