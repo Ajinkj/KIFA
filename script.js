@@ -11,8 +11,10 @@ document.addEventListener("DOMContentLoaded", function () {
         const subject = "Enhancing the Green Credit Mechanism for Sustainable Development (Suggestions)";
         const content = `
 Dear Sir/Madam,
-  I extend my heartfelt appreciation to the Government and officials of the Ministry of Environment, Forest, and Climate Change for recognizing the vital role of farmers in creating greenery and taking steps to acknowledge their efforts through the Green Credit Mechanism (GCP). After carefully studying the recent Gazette of India Notification S.O 2779(E) and considering the inputs from various stakeholders, I would like to offer the following suggestions to further strengthen the GCP and ensure its effectiveness in promoting sustainable development in our country:
+                I extend my heartfelt appreciation to the Government and officials of the Ministry of Environment, Forest, and Climate Change for recognizing the vital role of farmers in creating greenery and taking steps to acknowledge their efforts through the Green Credit Mechanism (GCP). 
   
+  After carefully studying the recent Gazette of India Notification S.O 2779(E) and considering the inputs from various stakeholders, I would like to offer the following suggestions to further strengthen the GCP and ensure its effectiveness in promoting sustainable development in our country:
+
     1. Adopt clear and consistent guidelines to streamline the Green Credit Mechanism (GCP) and avoid confusion between notifications by different ministries. 
     2. Form an inter-departmental high-power committee comprising experts from various ministries to ensure technical accuracy and international alignment. 
     3. Create a comprehensive and publicly accessible database considering India's diverse climatic and topographical variations, crop diversity, and cultural differences. 
